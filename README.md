@@ -1,1 +1,1 @@
-Backend for the celemonial project
+Node Project Boilerplate
